@@ -1,0 +1,24 @@
+[08-May-2024 12:29:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/boippxvm/ppwsoft.site/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/boippxvm/ppwsoft.site/tests/TestCase.php on line 7
+[08-May-2024 12:29:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/boippxvm/ppwsoft.site/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/boippxvm/ppwsoft.site/tests/TestCase.php on line 7
+[08-May-2024 14:41:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/boippxvm/ppwsoft.site/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/boippxvm/ppwsoft.site/tests/TestCase.php on line 7
+[09-May-2024 12:34:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/boippxvm/ppwsoft.site/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/boippxvm/ppwsoft.site/tests/TestCase.php on line 7
+[09-May-2024 14:29:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/boippxvm/ppwsoft.site/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/boippxvm/ppwsoft.site/tests/TestCase.php on line 7
+[09-May-2024 16:03:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/boippxvm/ppwsoft.site/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/boippxvm/ppwsoft.site/tests/TestCase.php on line 7

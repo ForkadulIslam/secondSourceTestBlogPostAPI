@@ -1,0 +1,20 @@
+[08-May-2024 12:31:37 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/boippxvm/ppwsoft.site/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/boippxvm/ppwsoft.site/tests/Feature/ExampleTest.php on line 8
+[08-May-2024 12:31:38 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/boippxvm/ppwsoft.site/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/boippxvm/ppwsoft.site/tests/Feature/ExampleTest.php on line 8
+[09-May-2024 13:11:54 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/boippxvm/ppwsoft.site/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/boippxvm/ppwsoft.site/tests/Feature/ExampleTest.php on line 8
+[09-May-2024 15:02:33 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/boippxvm/ppwsoft.site/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/boippxvm/ppwsoft.site/tests/Feature/ExampleTest.php on line 8
+[09-May-2024 16:03:43 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/boippxvm/ppwsoft.site/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/boippxvm/ppwsoft.site/tests/Feature/ExampleTest.php on line 8
